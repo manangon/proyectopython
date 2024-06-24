@@ -1,7 +1,7 @@
 # Proyecto Final Python
 #### Tipti
-##### Nombre: Nathalia Estefanía Cóndor Flores
-##### Correo: natis.nti@gmail.com
+#### Nombre: Melani Manangon Maza
+#### Correo: manangonmelani00@gmail.com
 
 # Proyecto de Análisis de Datos
 
